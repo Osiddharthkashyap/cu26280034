@@ -1,0 +1,1 @@
+* { box-sizing: border-box; } body { margin: 0; font-family: Arial, Helvetica, sans-serif; } .header { padding: 14px; background: #dce3ec; } .layout { display: flex; min-height: 240px; } .nav { width: 28%; padding: 14px; background: #eef1f5; } .content { flex: 1; padding: 14px; }

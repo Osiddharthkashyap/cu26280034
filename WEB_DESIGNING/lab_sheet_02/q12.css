@@ -1,0 +1,1 @@
+* { box-sizing: border-box; } body { font-family: Arial, Helvetica, sans-serif; } form { max-width: 500px; margin: auto; } input { display: block; width: 100%; padding: 9px; margin: 7px 0; border: 1px solid #b6c0cc; border-radius: 5px; } button { padding: 9px 14px; } @media(max-width:600px) { form { padding: 10px; } input { width: 100%; } }

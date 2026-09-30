@@ -1,0 +1,1 @@
+body { font-family: Arial, Helvetica, sans-serif; } label, input, input::placeholder { font-family: Georgia, serif; line-height: 1.5; letter-spacing: 1px; text-transform: capitalize; } label { display: block; } input { padding: 9px; }

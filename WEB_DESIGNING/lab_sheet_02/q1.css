@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+body { font-family: Arial, Helvetica, sans-serif; background: #eef2f7; color: #17202a; }
+form { max-width: 420px; margin: 22px auto; padding: 18px; background: #fff; border: 1px solid #d9e0e8; border-radius: 12px; }
+input[type=text], input[type=password], select, textarea { width: 100%; padding: 9px; margin: 8px 0; border: 1px solid #aeb8c5; border-radius: 5px; }
+textarea { min-height: 75px; }

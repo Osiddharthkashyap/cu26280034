@@ -1,0 +1,1 @@
+body { font-family: Arial, Helvetica, sans-serif; } button { padding: 10px 18px; border: 0; border-radius: 7px; background: #334155; color: #fff; transition: .25s; } button:hover { background: #475569; transform: scale(1.04); } button:active { transform: scale(.95); }

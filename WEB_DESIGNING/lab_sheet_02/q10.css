@@ -1,0 +1,1 @@
+body { font-family: Arial, Helvetica, sans-serif; } form { padding: 20px; } table { width: 100%; max-width: 600px; border-collapse: collapse; } th, td { border: 1px solid #9ca7b5; padding: 9px; text-align: left; } tr:nth-child(even) { background: #eef2f6; } tbody tr:hover { background: #dbeafe; }
