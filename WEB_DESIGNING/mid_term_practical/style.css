@@ -1,0 +1,42 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+section {
+  height: 50px;
+}
+table,
+tr,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 4px 8px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-space-around {
+  justify-content: space-around;
+}
+.list-style-none {
+  list-style: none;
+}
+nav {
+  background-color: #000000;
+  color: bisque;
+  height: 100%;
+}
